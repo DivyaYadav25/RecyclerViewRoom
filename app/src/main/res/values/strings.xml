@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Airit</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="person_image">Person image</string>
+    <string name="delete">delete</string>
+</resources>
